@@ -1,0 +1,22 @@
+{
+  "name": "Movie",
+  "version": "0.0.1",
+  "description": "moview review system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankitgoel23/movieReview.git"
+  },
+  "author": "ankit,rati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitgoel23/movieReview/issues"
+  },
+  "homepage": "https://github.com/ankitgoel23/movieReview",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
